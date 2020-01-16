@@ -1,0 +1,1 @@
+../microservice_values.auto.tfvars

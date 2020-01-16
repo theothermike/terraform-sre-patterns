@@ -1,0 +1,1 @@
+../../variables/shared-rds_variables.tf

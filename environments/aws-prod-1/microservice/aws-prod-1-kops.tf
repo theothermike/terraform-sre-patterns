@@ -1,0 +1,1 @@
+../../remote_states/aws-prod-1-kops.tf

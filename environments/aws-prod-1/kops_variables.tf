@@ -1,0 +1,1 @@
+../../models/variables/kops_variables.tf

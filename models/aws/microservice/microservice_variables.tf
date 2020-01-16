@@ -1,0 +1,1 @@
+../../variables/microservice_variables.tf

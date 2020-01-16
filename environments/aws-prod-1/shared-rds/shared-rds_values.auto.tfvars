@@ -1,0 +1,1 @@
+../shared-rds_values.auto.tfvars
